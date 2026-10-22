@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 
 const Welcome = ({code, name}) => {
   return (
-I      <View>
+      <View>
         <Text>Welcome to {code} - {name}</Text>
       </View>
   );
